@@ -1,7 +1,7 @@
 function DatePicker() {
   return (
     <>
-      <p>DATEPICKER</p>
+      <p>DATE PICKER</p>
     </>
   );
 }
